@@ -1,0 +1,45 @@
+
+/* Layout components */
+.sidebar {
+    background-color: #fff;
+    width: 15vw;
+    max-width: 250px;
+    min-width: 200px;
+    height: 98vh;
+    min-height: 98vh;
+    max-height: 98vh;
+}
+
+.sidebar,
+.main-content,
+.details-panel {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 10px;
+    margin-bottom: 7px;
+    flex-grow: 1;
+}
+
+.sidebar-outer-container,
+.details-outer-container {
+    background-color: #EEEEEE;
+    padding: 7px;
+    border-radius: 10px;
+    flex-grow: 1;
+    height: 98vh;
+    min-height: 98vh;
+    overflow-y: auto;
+    margin-bottom: 0;
+}
+
+.main-content-container {
+    background-color: #EEEEEE;
+    padding: 7px;
+    border-radius: 10px;
+    margin: 7px;
+    overflow: hidden;
+    min-height: 98vh;
+    height: 98vh;
+}

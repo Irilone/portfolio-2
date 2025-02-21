@@ -1,0 +1,21 @@
+
+/* Base styles */
+body,
+html {
+    height: 100vh;
+    margin: 0;
+    font-family: IBM Plex Sans Condensed, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

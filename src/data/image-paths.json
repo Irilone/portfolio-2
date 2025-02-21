@@ -1,0 +1,41 @@
+
+{
+  "images": [
+    {
+      "name": "solace-1-onboarding.png",
+      "path": "supabase://interactive-projects/solace/solace-1-onboarding.png"
+    },
+    {
+      "name": "solace-2-home.png",
+      "path": "supabase://interactive-projects/solace/solace-2-home.png"
+    },
+    {
+      "name": "solace-3-form.png",
+      "path": "supabase://interactive-projects/solace/solace-3-form.png"
+    },
+    {
+      "name": "papyrus-1-papyrus.png",
+      "path": "supabase://interactive-projects/papyrus/papyrus-1-papyrus.png"
+    },
+    {
+      "name": "papyrus-2-challenge.png",
+      "path": "supabase://interactive-projects/papyrus/papyrus-2-challenge.png"
+    },
+    {
+      "name": "papyrus-3-annotations.png",
+      "path": "supabase://interactive-projects/papyrus/papyrus-3-annotations.png"
+    },
+    {
+      "name": "index.html",
+      "path": "supabase://interactive-projects/papyrus/index.html"
+    },
+    {
+      "name": "styles.css",
+      "path": "supabase://interactive-projects/papyrus/styles.css"
+    },
+    {
+      "name": "scripts.js",
+      "path": "supabase://interactive-projects/papyrus/scripts.js"
+    }
+  ]
+}
